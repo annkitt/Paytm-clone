@@ -7,7 +7,7 @@
 ![Html ,tailwind](https://img.shields.io/badge/Html%20-tailwind-teal)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## PAYTM clone [Live link]()
+## PAYTM clone [Live link](https://paytmclonee.netlify.app/)
 
 ## Time Taken to Complete this project
     - 18 Hours taken to Complete it.
